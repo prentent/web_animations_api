@@ -1,0 +1,22 @@
+.header-banner {
+    top: 0px;
+    left: 0px;
+    width: 320px;
+    height: 20px;
+    background: black;
+    position: absolute;
+}
+
+.parent-img {
+    width: 320px;
+    height: 300px;
+    position: relative;
+    border: 5px solid black;
+}
+
+img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    transform: scale(0.5);
+}
